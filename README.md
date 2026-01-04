@@ -24,7 +24,7 @@ const Raihan = {
     location: "Indonesia 🇮🇩",
     passion: "Creating Beautiful Web Experiences",
     
-    code: ["JavaScript", "TypeScript", "PHP"],
+    code: ["JavaScript", "PHP"],
     
     technologies: {
         frontend: ["React", "Tailwind CSS"],
